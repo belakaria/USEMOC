@@ -1,8 +1,7 @@
 ## Uncertainty-Aware Search Framework for Multi-Objective Bayesian Optimization with Constraints
 
 
-This repository contains the python implementation for USeMOC from the ICML 2020 Workshop on Automated Machine Learning (AutoML) "[https://arxiv.org/abs/2008.07029]". 
-
+This repository contains the python implementation for USeMOC from the ICML 2020 Workshop on Automated Machine Learning (AutoML) "[Uncertainty-Aware Search Framework for Multi-Objective Bayesian Optimization with Constraints](https://arxiv.org/abs/2008.07029)".
 The implementation handles automatically the batch version of the algorithm by setting the variable "batch_size" to a number higher than 1. 
 
 
