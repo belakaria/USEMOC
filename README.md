@@ -16,6 +16,16 @@ The code is implemented in Python and requires the following packages:
 3. [pygmo](https://esa.github.io/pygmo2/install.html) 
 
 ### Citation
-If you use this library in your academic work please cite our AutoML 2020 paper: "Uncertainty-Aware Search Framework for Multi-Objective Bayesian Optimization with Constraints", Syrine Belakaria, Aryan Deshwal, Janardhan Rao Doppa.
 
+If you use this code please cite our paper:
 
+```bibtex
+
+@article{belakaria2020uncertainty,
+  title={Uncertainty aware Search Framework for Multi-Objective Bayesian Optimization with Constraints},
+  author={Belakaria, Syrine and Deshwal, Aryan and Doppa, Janardhan Rao},
+  journal={Workshop on Automated Machine Learning (AutoML), ICML},
+  year={2020}
+}
+
+````
